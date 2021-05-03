@@ -1,6 +1,6 @@
 {
   "name": "commajs-image-editor",
-  "version": "1.0.29",
+  "version": "1.0.30",
   "description": "Commajs - The WYSIWYG framework -  image-editor plugin",
   "main": "dist/commajs-image-editor.min.js",
   "repository": {
